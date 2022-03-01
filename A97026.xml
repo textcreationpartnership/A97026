@@ -1,0 +1,141 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The good angel of Stamford. Or An extraordinary cure of an extraordinary consumption, in a true and faithful narrative of Samuel Wallas recovered, by the power of God, and prescription of an angel.</title>
+            <author>Wallas, Samuel.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1659</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 10 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A97026</idno>
+            <idno type="STC">Wing W494</idno>
+            <idno type="STC">Thomason E999_4</idno>
+            <idno type="STC">ESTC R207829</idno>
+            <idno type="EEBO-CITATION">99866857</idno>
+            <idno type="PROQUEST">99866857</idno>
+            <idno type="VID">168701</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A97026)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 168701)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 148:E999[4])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The good angel of Stamford. Or An extraordinary cure of an extraordinary consumption, in a true and faithful narrative of Samuel Wallas recovered, by the power of God, and prescription of an angel.</title>
+                  <author>Wallas, Samuel.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>printed in the year. 1659.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "Sept 23.".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>God --  Proof --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-01</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-01</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-03</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2012-03</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:168701:1" rendition="simple:additions"/>
+            <p>The Good Angel of Stamford.</p>
+            <p>OR AN EXTRAORDINARY CURE OF AN EXTRAORDINARY CONSUMPTION, IN A True and Faithful NARRATIVE OF SAMUEL WALLAS Recovered, BY The Power of <hi>God,</hi> and preſcription Of <hi>an</hi> ANGEL.</p>
+            <p>
+               <hi>LONDON,</hi> 
+               <add>Sept 23.</add> Printed in the Year. 1659.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:168701:2"/>
+            <pb n="1" facs="tcp:168701:2"/>
+            <argument>
+               <p>A Relation of <hi>Samuell VVallas</hi> his being reſtored to perfect Health, after his thirteen Years Sickneſs in a Conſumption, taken from his own mouth, who for the laſt four Years lay bed-rid, and ſo weak that he could not turne himſelf therein without help, by which diſtem<g ref="char:EOLhyphen"/>per his Body was ſo parcht and dried, that he was moſt like an Anotomie, but now at preſent has recovered his former ſtrength, and followes his Trade again, being a Shoemaker, Living at <hi>Stamford</hi> in <hi>Lincolſhire,</hi> this fol<g ref="char:EOLhyphen"/>lowing diſcourſe was related to him that writ it, by the ſaid <hi>VVallas</hi> with much affection and ſenſibleneſſe of the Lords goodneſs and kindneſs to him. <hi>Aprill</hi> 7. 1659.</p>
+            </argument>
+            <p>UPon Whitſunday laſt about ſix a clock in the after<g ref="char:EOLhyphen"/>noon, after Evening Sermon, he finding himſelf a little lightſome, and able to get out of bed a<g ref="char:EOLhyphen"/>lone; there being no body in the houſe then with him, and his Wife being gone into the Countrey to her Friends, to ſeek ſome relief; he crept to the fire ſide, and reading upon a Book intituled, <hi>Abrahams ſuit for Sodom,</hi> he heard ſome raplat the Door, and thinking it to be ſome ſtranger
+<pb n="2" facs="tcp:168701:3"/> becauſe he knocked as if it were with a ſtick, and being the Sabbath day, he took his ſtaff in the one hand, and the Wall one his other, and went to the door, and o<g ref="char:EOLhyphen"/>pening of it, he beheld a proper grave Old man, who ſaid to him Friend I pray thee, give an old Pilgrime a cup of thy ſmall bear; And the ſaid <hi>Samuell Wallas</hi> replyed, I pray <hi>Sir</hi> come in, then he anſwered, Friend, call me not <hi>Sir,</hi> for I am no <hi>Sir,</hi> but yet come in I muſt, for I cannot paſs thy Door before I come in (the ſaid <hi>Wallas</hi> then thinking he had been ſo dry, that made him ſay he could not paſs his Door before he came in) And thereupon ſaid come in <hi>Sir,</hi> and welcome; And after he was come in, he went with the help of his ſtick, and drew him a cup of ſmall bear in a little jug-pot, and gave it him in his hand, who took it by the bottom and drunk a little, and ſo walked two or three times to and fro, and then drunk again, and ſo a third time, before he drunk it all, and after that ſet the jug down in the window by the ſaid <hi>Samuell Wallas,</hi> he leaning then upon a little Table, and then the ſaid <hi>Samuell Wallas</hi> thought, he would have been going, but he went and walked to and fro ſome three or four times as he did before, all this while neither ſpeaking one word to each other; but at laſt, coming to the ſaid <hi>Wallas,</hi> ſaid Friend, I perceive thou art not well, and he replyed, No truely <hi>Sir,</hi> I have not been well this many Years, then he asked what was his diſeaſe, who anſwered a Deep Conſumption, our Do<g ref="char:EOLhyphen"/>ctors, ſay it is paſt cure, then ſaid he, they ſaid well: but what have they given thee for it, then the ſaid <hi>Samuell Wallas,</hi> replyed truely nothing; for I am a very poor man, and am not able to follow the Doctors Counſell, and therefore he was willing to commit himſelf into the hands of Al<g ref="char:EOLhyphen"/>mighty
+<pb n="3" facs="tcp:168701:3"/> God to diſpoſe of him as he pleaſed, and thereup<g ref="char:EOLhyphen"/>on the Old man replyed, in that thou ſayeſt very well, then I will tell thee by the Almighty power of God, what thou ſhalt do, but remember my words, and obſerve them, and do it, but whatſoever thou doeſt, Fear God, and ſerve him. To morrow morning go into thy Garden, and there get two Reg-ſage leaves, and one Blood-wort leaf, and put thoſe three leaves into a cup of ſmall Bear, and let them lye in the bear for the ſpace of three dayes together, drink as often as need requires; but let the leaves remain ſtill in the Cup: but the fourth morning caſt them away, and put three freſh ones in; and this do for twelve dayes toge<g ref="char:EOLhyphen"/>ther, neither more nor leſs, and I pray thee remember what I ſay, and obſerve my words, and do it, but above all what<g ref="char:EOLhyphen"/>ſoever, thou doeſt, Fear God, and ſerve him. And for the ſpace of theſe twelve dayes thou muſt neither drink Ale, nor ſtrong Bear, but afterwards thou mayeſt a little to ſuf<g ref="char:EOLhyphen"/>fice. And thou ſhalt ſee before theſe twelve dayes be forth, thorough the great mercy and help of Almighty God, thy diſeaſe to be cured and thy body altered; Now the ſaid <hi>Samuell Wallas,</hi> doubting of theſe things, ſaid, <hi>Sir,</hi> be this good for all Conſumptions, and he replyed I tell thee, I tell thee; obſerve what I ſay to thee, and do it: but above all whatſoever thou doeſt, Fear God, and ſerve him. But this is not all, ſaid he, for thou muſt change the Air for thy Health, then the ſaid <hi>Wallas</hi> ſaid, what do you mean <hi>Sir,</hi> by changing the Air? And he anſwered, thou muſt go three, or four, or five miles off, or if it be twenty miles off, the fur<g ref="char:EOLhyphen"/>ther off the better, and thou muſt go forth as ſpeedily as thou canſt after thy twelve dayes is out, or elſe thou wilt have a very grievous fit of Sickneſſe that will ſuddenly
+<pb n="4" facs="tcp:168701:4"/> ſeize upon thee, yet through Gods mercy, by this doing thou mayeſt avoid that: And thou ſhalt ſee that before the Moneth and twelve dayes be out, through the help of Almighty God above, the clothes thou haſt now upon thy back thou will ſcarce be able to wear with eaſe, thy body will be ſo much grown; and I pray thee remember my words, and obſerve to do them, but above all whatſo<g ref="char:EOLhyphen"/>ever thou doeſt, Fear God and ſerve him. Then the ſaid <hi>Wallas</hi> ſaid, I pray <hi>Sir,</hi> if it ſhall pleaſe the Lord to inable me to goe into our own Fields Two or Three Times a Day, will not that ſerve the Turne? He anſwered no Friend it will not, for that Aire where the infection is taken, is not ſo properly good to cure the ſame diſeaſe; And then the ſaid <hi>Samuell Wallas</hi> ſaid,<hi>Sir,</hi> I thought to have been let blood: but he returned, No Friend, by no meanes, for before thy moneth and twelve days be up, thy blood will be as good as ever thou hadſt in all thy Life; but this one thing obſerve, thy joynts will be weak as long as thou liveſt. Now Friend ſaid the Old man I muſt be going, I pray Remember what I have ſaid to thee, and do it; but above all Fear God, and Serve him. Then the ſaid <hi>Wallas</hi> asked him, if he would eat any Bread and Butter, or Cheeſe; but he anſwered, No Friend, I will not eat any thing, the Lord Chriſt is ſufficient for me, nei<g ref="char:EOLhyphen"/>ther but very ſeldom do I drink any bear, but that which comes from the Rock, And ſo Friend the Lord God in Heaven be with thee; And the ſaid <hi>W.</hi> ſeeing him goe out of the door, went to ſhut it after him; but the Old man returned halfe way in the entry again towards the ſaid <hi>S. W.</hi> and ſaid, Friend I pray thee Remeber what I have ſaid,
+<pb n="5" facs="tcp:168701:4"/> and do it, but above all whatſoever thou doeſt, Fear God, and ſerve him; And ſo they parted; And the ſaid <hi>S. W.</hi> ſaith, he ſaw him paſſe along the Street ſome halfe a ſcore yards from his door, and ſo ſhut the door, and went in; but this Old man was not ſeen by any body elſe, nor paſſe along the Street, though there were perſons ſtanding in their doors oppoſite to the S. <hi>W.</hi> his houſe.</p>
+            <p>Now afterwards, within four days that the ſaid <hi>S. W.</hi> had made uſe of the Sage leaves and the other leave aforemen<g ref="char:EOLhyphen"/>tioned, he ſaith, there aroſe a skurff which came off his body under which he had a new skin, that was as if it had been the skin of a Sucking child, and by the end of the twelve dayes was as healthfull and ſtrong as ever he was; onely this he ſaith, that when he ſits down, his knees will ſmite together, finding ſtill a weakneſs in his joynts; And this further he ſaid, that one day within the time exhibited, by the ſolicitation of ſome Friends, he drunk a little ſtrong drink, but imediately his ſpeech was took from him, and he could not ſay any thing for twenty four hours.</p>
+            <p>As for the Diſcription of this Old Mans perſon, and ha<g ref="char:EOLhyphen"/>bit; He was Tall and ancient, his hair as white as wool, curled up, with a white broad Beard, and he had a freſh Complexion, and wore a faſhionable Hat, and a little nar<g ref="char:EOLhyphen"/>row band, his Coat and hoſe both of a purple Colour his ſtockings pure white, and a paire of new black leather ſhooes;tied with ribbin of the ſame colour his clothes were. And though it rained when he came in to the ſaid <hi>S. W.</hi> houſe, and, as is very well remembred by many, all day, yet he had not one ſpot of wet or dirt upon him, he was without Gloves, but his Hands as white as Snow.</p>
+            <pb n="6" facs="tcp:168701:5"/>
+            <p>It ſeemes there was a meeting of the Miniſters about <hi>Stamford,</hi> upon this occaſion, who concluded, that this appa<g ref="char:EOLhyphen"/>rition was the good Angell, for ſeverall weighty reaſons inducing them to believe it; but for other reaſons here o<g ref="char:EOLhyphen"/>mitted.</p>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
